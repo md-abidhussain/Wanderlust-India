@@ -1,36 +1,25 @@
-🌏 Wanderlust India
-Wanderlust India is a responsive, high-performance tourism website designed to showcase the beauty of Indian destinations. This project was developed as part of the NxtWave Growth Cycle 1, focusing on responsive web design, UI/UX principles, and modern CSS layouts.
+# 🌏 Wanderlust India
 
-🔗 Live Demo
-GitHub Pages:[ View Live Site]https://md-abidhussain.github.io/Wanderlust-India/
+Wanderlust India is a responsive tourism website showcasing iconic Indian destinations.  
+Built using HTML, CSS, and Bootstrap, the project focuses on clean UI, smooth navigation, and mobile-first design.
 
-NxtWave Deployment: wanderlustindia.ccbp.tech
 
-🚀 Key Features
-Immersive Hero Section: A full-viewport (100vh) introduction with high-quality imagery.
+## 🔗 Live Demo
+- **GitHub Pages:** https://md-abidhussain.github.io/Wanderlust-India/
+- **NxtWave Deployment:** https://wanderlustindia.ccbp.tech
 
-SPA Behavior: Custom navigation using a toggle function to switch between sections seamlessly without page reloads.
 
-Responsive Design: Fully optimized for mobile, tablet, and desktop using Bootstrap 4/5 Grid System.
+## ✨ Features
+- Full-screen hero section with immersive visuals
+- Single-page navigation using JavaScript (no page reloads)
+- Responsive layout for mobile, tablet, and desktop
+- Destination detail views with Bootstrap carousels
+- Optimized local assets for faster loading
 
-Interactive Components: Integrated Bootstrap carousels and hover effects for an engaging user experience.
+## 🛠 Tech Stack
+- **HTML5** – Semantic structure  
+- **CSS3** – Custom styling, Flexbox, animations  
+- **Bootstrap 4** – Responsive grid & UI components  
+- **JavaScript** – Section-based navigation  
+- **Git & GitHub** – Version control & hosting  
 
-Optimized Assets: Localized image assets for improved performance and faster load times.
-
-🛠️ Tech Stack
-HTML5: Semantic structure.
-
-CSS3: Custom styling, Flexbox, and animations.
-
-Bootstrap: Responsive layout and UI components.
-
-Git/GitHub: Version control and hosting.
-
-📂 Project Structure
-Plaintext
-
-├── index.html          # Main entry point & section logic
-├── style.css           # Custom styles and media queries
-└── assets/             # Images and iconography
-
-[def]: https://md-abidhussain.github.io/Wanderlust-India/
